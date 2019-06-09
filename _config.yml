@@ -1,5 +1,6 @@
 layout: sidebar
 style: light
+resume: https://drive.google.com/open?id=1fwz903vcpZgu04cFmAdXkQoFcCPEeEah
 
 plugins:
   - jekyll-octicons
@@ -28,14 +29,14 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
-  # hackerrank: your_username
+  # hackerrank: shreelekha_17s
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: shrilekhas
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -47,12 +48,23 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Statistics
+    image_url: https://upload.wikimedia.org/wikipedia/commons/4/40/Fisher_iris_versicolor_sepalwidth.svg
 
-  - name: Web design
+  - name: Operations Research
+    web_url: https://www.coin-or.org/
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Machine Learning
+    web_url: http://www.jmlr.org/
+
+  - name: SQL
+    web_url: https://en.wikipedia.org/wiki/SQL
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png
+
+  - name: Python
+    web_url: https://www.python.org/
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
+
+  - name: R
+    web_url: https://www.r-project.org/
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png
